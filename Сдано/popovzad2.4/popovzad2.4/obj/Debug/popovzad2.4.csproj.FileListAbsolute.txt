@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\bin\Debug\popovzad2.4.exe
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\bin\Debug\popovzad2.4.pdb
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\obj\Debug\popovzad2.4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\obj\Debug\popovzad2.4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\obj\Debug\popovzad2.4.exe
+C:\Users\user\source\repos\popovzad2.4\popovzad2.4\obj\Debug\popovzad2.4.pdb

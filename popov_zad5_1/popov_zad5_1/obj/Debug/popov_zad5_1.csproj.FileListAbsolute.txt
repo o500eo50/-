@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\bin\Debug\popov_zad5_1.exe
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\bin\Debug\popov_zad5_1.pdb
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\obj\Debug\popov_zad5_1.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\obj\Debug\popov_zad5_1.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\obj\Debug\popov_zad5_1.exe
-C:\Users\user\source\repos\popov_zad5_1\popov_zad5_1\obj\Debug\popov_zad5_1.pdb

@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\bin\Debug\popovzad2.2.exe
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\bin\Debug\popovzad2.2.pdb
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\obj\Debug\popovzad2.2.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\obj\Debug\popovzad2.2.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\obj\Debug\popovzad2.2.exe
-C:\Users\user\source\repos\popovzad2.2\popovzad2.2\obj\Debug\popovzad2.2.pdb
